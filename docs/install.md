@@ -4,7 +4,7 @@ The following steps are based on Ubuntu Linux 24.04 LTS. Please adjust the comma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alab-forge/ST-Pitch.git
+   git clone https://github.com/helios-base/ST-Pitch.git
    cd ST-Pitch
    ```
 1. Set up the PostgreSQL database and PostGIS extension.
